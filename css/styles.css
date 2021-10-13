@@ -1,0 +1,46 @@
+body {background-color: #444e5e;
+      }
+  hr{
+    border-color: #00ADB5;
+    border-style: dotted none none;
+    border-width: 8px;
+    border-top-style: dotted;
+    width:10%;
+  }
+  hr:hover{
+      border-color: #EEEEEE;
+      }
+  img{
+      height: 200px;
+        }
+/*kép méret állítás img heighet*/
+/*a hr{border-sytle második none ja a magasságát azaz az a "height: 0px;-ot hoz hasonló}*/
+
+    th{color:#00ADB5;}
+  h1 {color: #00ADB5;
+      font-size:50px;}
+  h1:hover{color:#EEEEEE;}
+  h2{color:#00ADB5}
+  h2:hover{color:#EEEEEE;}
+  h3{color: #00ADB5; }
+  h3:hover{color:#EEEEEE;}
+  h4:hover{color:#EEEEEE;}
+
+  .nagy{
+    height: 500px;
+  }
+  .kerek{
+    border-radius: 30%
+  }
+  .kerek:hover{
+   border-radius: 1%
+  }
+  .potjo{
+      height: 140px}
+
+  .links:hover{
+    color: #00ADB5;
+  }
+  .vkep:hover{
+    height:400px;
+  }
